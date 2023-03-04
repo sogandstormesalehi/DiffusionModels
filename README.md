@@ -1,7 +1,7 @@
 # DiffusionModels
 Diffusion Models from Scratch.
 
-#TO DO:
+# TO DO:
 U-Net
 Denoising diffusion probabilistic model
 Train on different datasets
