@@ -4,7 +4,7 @@ Diffusion Models from Scratch.
 # TO DO:
 Implement U-Net ✓
 
-Implement denoising diffusion probabilistic model
+Implement denoising diffusion probabilistic model ✓
 
 Train on different datasets
 
