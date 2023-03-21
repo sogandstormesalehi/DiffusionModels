@@ -6,9 +6,9 @@ Implement U-Net ✓
 
 Implement denoising diffusion probabilistic model ✓
 
-Train on different datasets
+Train on different datasets ✓
 
-Convert to latent diffusion
+Convert to latent/stable diffusion
 
 Generate image from text
 
