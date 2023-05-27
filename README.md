@@ -8,7 +8,7 @@ Implement denoising diffusion probabilistic model ✓
 
 Train on different datasets ✓
 
-Convert to latent/stable diffusion
+Convert to latent/stable diffusion ✓
 
 Generate image from text
 
